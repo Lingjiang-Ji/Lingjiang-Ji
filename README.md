@@ -1,5 +1,3 @@
-## Hi, I'm Lingjiang Ji 👋
-
 # 👋 Hi, I'm Lingjiang Ji
 
 🎓 Incoming Master of Quantitative Finance @ UC San Diego (Fall 2025)  
