@@ -46,7 +46,7 @@ Currently pivoting into the data analytics field, I focus on combining business 
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-View%20Profile-blue?logo=linkedin)](https://www.linkedin.com/in/lingjiang-ji-471122360)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-View%20Profile-blue?logo=linkedin)](https://www.linkedin.com/in/lingjiang-ji-417122360/)  
 
 
 ---
