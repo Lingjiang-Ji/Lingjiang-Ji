@@ -36,7 +36,7 @@ Currently pivoting into the data analytics field, I focus on combining business 
 
 ### 🧪 Data Analysis & SQL
 
-- [🧠 SQL Interview Challenges (30+ Questions)](https://github.com/Lingjiang-Ji/SQL-for-Data-Analyst-Interviews-Practice-Project)  
+- [🧠 SQL Interview Challenges (30+ Questions)](https://github.com/Lingjiang-Ji/SQL-for-Data-Analyst-Interviews-Practice-Project-)  
   *Solved SQL problems from Amazon, Airbnb, and StrataScratch — window functions, joins, and aggregations.*
 
 - [🎬 Netflix EDA – Python & Pandas](https://github.com/Lingjiang-Ji/netflix-eda-project)  
