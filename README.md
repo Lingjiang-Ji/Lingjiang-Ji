@@ -9,6 +9,8 @@
 
 With a background in economics and finance, I’m passionate about turning raw data into clear, actionable insights.  
 Currently pivoting into the data analytics field, I focus on combining business logic with technical tools to support real-world decisions.
+Currently working on two company-based analytics projects (medical device & construction industries).
+
 
 ---
 
@@ -34,6 +36,15 @@ Currently pivoting into the data analytics field, I focus on combining business 
 
 ---
 
+## 🏢 Real-World Business Projects (Coming Soon)
+
+| Project | Industry | Description |
+|--------|----------|-------------|
+| 🧪 Plasma Station Analytics | Healthcare · Medical Devices | In progress: analyzing plasma site operations, logistics, and throughput KPIs using real-world business data |
+| 🧱 Project Profitability Tracker | Construction | Building a financial model to track project-level profitability, material costs, and client performance patterns |
+
+---
+
 ### 🧪 Data Analysis & SQL
 
 - [🧠 SQL Interview Challenges (30+ Questions)](https://github.com/Lingjiang-Ji/SQL-for-Data-Analyst-Interviews-Practice-Project-)  
@@ -51,4 +62,4 @@ Currently pivoting into the data analytics field, I focus on combining business 
 
 ---
 
-> “I don’t just analyze data—I turn complexity into clarity, and insight into action.”
+> “I enjoy turning complexity into clarity, and strive to build analyses that support real-world decisions.”
