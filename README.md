@@ -26,13 +26,13 @@ Currently working on two company-based analytics projects (medical device & cons
 
 ## 📁 Featured Projects
 
-### 📊 Business Dashboards
+### 🧪 Data Analysis & SQL
 
-- [📈 Financial Dashboard – Power BI + Excel](https://github.com/Lingjiang-Ji/financial-dashboard-powerbi)  
-  *Interactive KPI dashboard to monitor sales, profit, and category trends.*
+- [🧠 SQL Interview Challenges (30+ Questions)](https://github.com/Lingjiang-Ji/SQL-for-Data-Analyst-Interviews-Practice-Project-)  
+  *Solved SQL problems from Amazon, Airbnb, and StrataScratch — window functions, joins, and aggregations.*
 
-- [📦 Retail Sales Dashboard – Excel (Coming Soon)](https://github.com/Lingjiang-Ji/excel-retail-dashboard)  
-  *PivotTables + charts to visualize sales performance across regions and categories.*
+- [🎬 Netflix EDA – Python & Pandas](https://github.com/Lingjiang-Ji/netflix-eda-project)  
+  *Analyzed content distribution, top genres, and release patterns.*
 
 ---
 
@@ -45,13 +45,13 @@ Currently working on two company-based analytics projects (medical device & cons
 
 ---
 
-### 🧪 Data Analysis & SQL
+### 📊 Business Dashboards
 
-- [🧠 SQL Interview Challenges (30+ Questions)](https://github.com/Lingjiang-Ji/SQL-for-Data-Analyst-Interviews-Practice-Project-)  
-  *Solved SQL problems from Amazon, Airbnb, and StrataScratch — window functions, joins, and aggregations.*
+- [📈 Financial Dashboard – Power BI + Excel (Coming Soon)](https://github.com/Lingjiang-Ji/financial-dashboard-powerbi)  
+  *Interactive KPI dashboard to monitor sales, profit, and category trends.*
 
-- [🎬 Netflix EDA – Python & Pandas](https://github.com/Lingjiang-Ji/netflix-eda-project)  
-  *Analyzed content distribution, top genres, and release patterns.*
+- [📦 Retail Sales Dashboard – Excel (Coming Soon)](https://github.com/Lingjiang-Ji/excel-retail-dashboard)  
+  *PivotTables + charts to visualize sales performance across regions and categories.*
 
 ---
 
