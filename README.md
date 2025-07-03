@@ -28,11 +28,11 @@ Currently working on two company-based analytics projects (medical device & cons
 
 ### 🧪 Data Analysis & SQL
 
-- [🧠 SQL Interview Challenges (30+ Questions)](https://github.com/Lingjiang-Ji/SQL-for-Data-Analyst-Interviews-Practice-Project-)  
-  *Solved SQL problems from Amazon, Airbnb, and StrataScratch — window functions, joins, and aggregations.*
+- [🧠 SQL Interview Challenges (Handpicked 10 SQL Challenges from 80+ Problems)](https://github.com/Lingjiang-Ji/SQL-for-Data-Analyst-Interviews-Practice-Project-)  
+  *Solved 60+ questions. Curated the 10 most meaningful ones — covering JOIN, GROUP BY, WINDOW FUNCTIONS, FILTER, RANKING, CASE, DATE LOGIC, and performance-oriented query design.*
 
 - [🎬 Netflix EDA – Python & Pandas](https://github.com/Lingjiang-Ji/netflix-eda-project)  
-  *Analyzed content distribution, top genres, and release patterns.*
+  *Analyzed and visualized content distribution, top genres, and release patterns using pandas, numpy, matplotlib, seaborn.*
 
 ---
 
