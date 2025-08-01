@@ -36,24 +36,6 @@ Currently working on two company-based analytics projects (medical device & cons
 
 ---
 
-## 🏢 Real-World Business Projects (Coming Soon)
-
-| Project | Industry | Description |
-|--------|----------|-------------|
-| 🧪 Plasma Station Analytics | Healthcare · Medical Devices | In progress: analyzing plasma site operations, logistics, and throughput KPIs using real-world business data |
-| 🧱 Project Profitability Tracker | Construction | Building a financial model to track project-level profitability, material costs, and client performance patterns |
-
----
-
-### 📊 Business Dashboards
-
-- [📈 Financial Dashboard – Power BI + Excel (Coming Soon)](https://github.com/Lingjiang-Ji/financial-dashboard-powerbi)  
-  *Interactive KPI dashboard to monitor sales, profit, and category trends.*
-
-- [📦 Retail Sales Dashboard – Excel (Coming Soon)](https://github.com/Lingjiang-Ji/excel-retail-dashboard)  
-  *PivotTables + charts to visualize sales performance across regions and categories.*
-
----
 
 ## 📫 Connect With Me
 
