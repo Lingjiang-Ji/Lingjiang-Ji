@@ -36,7 +36,7 @@ Currently working on two company-based analytics projects (medical device & cons
 
 ### 📊 Business Dashboards
 
-- [📈 Financial Dashboard – Power BI](https://github.com/Lingjiang-Ji/financial-dashboard-powerbi)  
+- [📈 Financial Dashboard – Power BI](https://github.com/Lingjiang-Ji/PowerBI-SalesAnalysis)  
   *Designed and built a Power BI financial dashboard with data cleaning in Power Query, star schema modeling, DAX measures (KPIs & time intelligence), validation checks, and interactive visual reports for sales, profit, and margin analysis.*
 
 ---
