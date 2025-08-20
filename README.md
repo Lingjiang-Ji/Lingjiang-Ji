@@ -47,6 +47,3 @@ Currently working on two company-based analytics projects (medical device & cons
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-View%20Profile-blue?logo=linkedin)](https://www.linkedin.com/in/lingjiang-ji-417122360/)  
 
 
----
-
-> “I enjoy turning complexity into clarity, and strive to build analyses that support real-world decisions.”
