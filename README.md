@@ -34,8 +34,6 @@ Currently working on two company-based analytics projects (medical device & cons
 - [🎬 Netflix EDA – Python & Pandas](https://github.com/Lingjiang-Ji/netflix-eda-project)  
   *Analyzed and visualized content distribution, top genres, and release patterns using pandas, numpy, matplotlib, seaborn.*
 
----
-
 ### 📊 Business Dashboards
 
 - [📈 Financial Dashboard – Power BI](https://github.com/Lingjiang-Ji/financial-dashboard-powerbi)  
