@@ -16,8 +16,6 @@ Currently working on two company-based analytics projects (medical device & cons
 
 ## 🛠 Skills & Tools
 
-## 🧰 Skills & Tools
-
 **Data Analytics**  
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
