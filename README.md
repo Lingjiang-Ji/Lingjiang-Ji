@@ -20,7 +20,7 @@ Currently working on two company-based analytics projects (medical device & cons
 ![Excel](https://img.shields.io/badge/Excel-Advanced-green?logo=microsoft-excel)
 ![Power BI](https://img.shields.io/badge/PowerBI-Dashboarding-yellow?logo=powerbi)
 ![Python](https://img.shields.io/badge/Python-Pandas%20&%20Numpy-blue?logo=python)
-![Tableau](https://img.shields.io/badge/Tableau-Data%20Viz-orange?logo=tableau)
+Python | Pandas & NumPy | statsmodels | Matplotlib | Empirical Finance | Quantitative Analysis
 
 ---
 
