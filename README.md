@@ -16,11 +16,21 @@ Currently working on two company-based analytics projects (medical device & cons
 
 ## 🛠 Skills & Tools
 
-![SQL](https://img.shields.io/badge/SQL-Intermediate-blue?logo=mysql)
-![Excel](https://img.shields.io/badge/Excel-Advanced-green?logo=microsoft-excel)
-![Power BI](https://img.shields.io/badge/PowerBI-Dashboarding-yellow?logo=powerbi)
-![Python](https://img.shields.io/badge/Python-Pandas%20&%20Numpy-blue?logo=python)
-Python | Pandas & NumPy | statsmodels | Matplotlib | Empirical Finance | Quantitative Analysis
+## 🧰 Skills & Tools
+
+**Data Analytics**  
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+**Quantitative Research**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-303F9F?style=for-the-badge&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+
 
 ---
 
