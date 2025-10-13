@@ -27,19 +27,25 @@ Python | Pandas & NumPy | statsmodels | Matplotlib | Empirical Finance | Quantit
 ## 📁 Projects
 
 ### 🧩 Quantitative Research & Finance
-| Project | Description | Link |
-|----------|--------------|------|
-| **QuantLab — Quantitative Research Portfolio** | A collection of projects in asset pricing, portfolio optimization, and empirical finance. | [View Repository](https://github.com/Lingjiang-Ji/QuantLab) |
-| **Equity Risk Premium Analysis** | Historical & forward-looking estimation of the U.S. ERP (1970–2025). | [View Repository](https://github.com/Lingjiang-Ji/Equity-Risk-Premium-Analysis) |
+
+- [**QuantLab — Quantitative Research Portfolio**]([View Repository](https://github.com/Lingjiang-Ji/QuantLab))
+
+   *A collection of projects in asset pricing, portfolio optimization, and empirical finance.*
+- [**Equity Risk Premium Analysis**]([View Repository](https://github.com/Lingjiang-Ji/Equity-Risk-Premium-Analysis))
+
+   *Historical & forward-looking estimation of the U.S. ERP (1970–2025). *
 
 ---
 
 ### 💼 Data Analysis & Business Projects
 - 📊 [SQL Interview Challenges](https://github.com/Lingjiang-Ji/SQL-for-Data-Analyst-Interviews-Practice-Project-)
-    *Solved 60+ questions. Curated the 10 most meaningful ones — covering JOIN, GROUP BY, WINDOW FUNCTIONS, FILTER, RANKING, CASE, DATE LOGIC, and performance-oriented query design.*
+
+   *Solved 60+ questions. Curated the 10 most meaningful ones — covering JOIN, GROUP BY, WINDOW FUNCTIONS, FILTER, RANKING, CASE, DATE LOGIC, and performance-oriented query design.*
 - 🎬 [Netflix EDA (Python & Pandas)](https://github.com/Lingjiang-Ji/netflix-eda-project)
-  *Analyzed and visualized content distribution, top genres, and release patterns using pandas, numpy, matplotlib, seaborn.*
+
+   *Analyzed and visualized content distribution, top genres, and release patterns using pandas, numpy, matplotlib, seaborn.*
 - 💰 [Financial Dashboard (Power BI)](https://github.com/Lingjiang-Ji/PowerBI-SalesAnalysis))
+
   *Designed and built a Power BI financial dashboard with data cleaning in Power Query, star schema modeling, DAX measures (KPIs & time intelligence), validation checks, and interactive visual reports for sales, profit, and margin analysis.*
 
 ---
