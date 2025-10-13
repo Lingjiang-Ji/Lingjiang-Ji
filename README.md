@@ -28,10 +28,10 @@ Python | Pandas & NumPy | statsmodels | Matplotlib | Empirical Finance | Quantit
 
 ### 🧩 Quantitative Research & Finance
 
-- [**QuantLab — Quantitative Research Portfolio**]((https://github.com/Lingjiang-Ji/QuantLab))
+- [**QuantLab — Quantitative Research Portfolio**](https://github.com/Lingjiang-Ji/QuantLab)
 
    *A collection of projects in asset pricing, portfolio optimization, and empirical finance.*
-- [**Equity Risk Premium Analysis**]((https://github.com/Lingjiang-Ji/Equity-Risk-Premium-Analysis))
+- [**Equity Risk Premium Analysis**](https://github.com/Lingjiang-Ji/Equity-Risk-Premium-Analysis)
 
    *Historical & forward-looking estimation of the U.S. ERP (1970–2025). *
 
