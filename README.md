@@ -36,6 +36,14 @@ Currently working on two company-based analytics projects (medical device & cons
 
 ### 🧩 Quantitative Research & Finance
 
+- [**Binomial Option Pricing Model**](https://github.com/Lingjiang-Ji/binomial-option-pricing)
+
+   Implementation of the Cox–Ross–Rubinstein Binomial Tree Model for pricing both European and American options (call and put).
+
+- [**Financial Sentiment Analysis**](https://github.com/Lingjiang-Ji/financial-sentiment-analysis)
+
+   Quantifying corporate tone from SEC 10-K and 10-Q filings using the Loughran–McDonald financial dictionary (2015–2024). Explores how textual sentiment in corporate disclosures correlates with stock performance.
+
 - [**Equity Risk Premium Analysis**](https://github.com/Lingjiang-Ji/equity-risk-premium-analysis)
 
    Historical & forward-looking estimation of the U.S. ERP (1970–2025). 
@@ -58,6 +66,5 @@ Currently working on two company-based analytics projects (medical device & cons
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-View%20Profile-blue?logo=linkedin)](https://www.linkedin.com/in/lingjiang-ji-417122360/)  
-
-
+- [LinkedIn](https://www.linkedin.com/in/lingjiang-ji/)  
+- **Email:** jilingjiang8 [at] gmail [dot] com
