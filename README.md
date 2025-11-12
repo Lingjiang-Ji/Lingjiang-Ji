@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Lingjiang Ji
 
-🎓 Master of Quantitative Finance @ UC San Diego (Fall 2025)  
-📈 Aspiring Data Analyst | Data-Driven Decision Making | Python · Excel · SQL · BI
+🎓 Master of Quantitative Finance @ UC San Diego 2026  
+📈 MQF 2026 @ UCSD | Finance & Data Enthusiast | Financial Analysis | Python | SQL | Excel | Valuation | Data Analytics
 
 ---
 
