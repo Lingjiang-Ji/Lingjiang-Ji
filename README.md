@@ -67,4 +67,4 @@ Currently working on two company-based analytics projects (medical device & cons
 ## 📫 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/lingjiang-ji/)  
-- **Email:** jilingjiang8 [at] gmail [dot] com
+- **Email:** jilingjiang8@gmail.com
