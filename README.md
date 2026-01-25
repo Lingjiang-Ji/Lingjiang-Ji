@@ -48,7 +48,7 @@ Currently working on two company-based analytics projects (medical device & cons
 
    Historical & forward-looking estimation of the U.S. ERP (1970–2025).
   
-- [**Mean–Variance Optimization & Efficient Frontier**](https://github.com/Lingjiang-Ji/mean-variance-optimization-efficient-frontier)
+- [**Mean–Variance Optimization & Efficient Frontier**]([https://github.com/Lingjiang-Ji/mean-variance-optimization-efficient-frontier](https://github.com/Lingjiang-Ji/Mean-Variance-Optimization-and-Efficient-Frontier))
 
    Implementation of mean–variance portfolio optimization with efficient frontier analysis. Estimates expected returns and covariance from historical asset data and solves minimum-variance portfolios under target return constraints using convex optimization.
 
