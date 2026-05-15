@@ -36,7 +36,7 @@ Currently working on two company-based analytics projects (medical device & cons
 
 ### 🧩 Quantitative Research & Finance
 
-- [**Abnormal Turnover Signal Research**]([https://github.com/Lingjiang-Ji/binomial-option-pricing](https://github.com/Lingjiang-Ji/Cross-Sectional-Alpha-Signal-Research))
+- [**Abnormal Turnover Signal Research**]([https://github.com/Lingjiang-Ji/binomial-option-pricing](https://github.com/Lingjiang-Ji/Cross-Sectional-Alpha-Signal-Research)
 
    Investigated the predictive power of abnormal-turnover equity signals using CRSP data through cross-sectional ranking, IC analysis, and decile portfolio evaluation in Python.
 
