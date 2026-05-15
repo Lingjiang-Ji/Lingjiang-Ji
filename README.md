@@ -36,9 +36,9 @@ Currently working on two company-based analytics projects (medical device & cons
 
 ### 🧩 Quantitative Research & Finance
 
-- [**Abnormal Turnover Signal Research**]([https://github.com/Lingjiang-Ji/Cross-Sectional-Alpha-Signal-Research])
-
-   Investigated the predictive power of abnormal-turnover equity signals using CRSP data through cross-sectional ranking, IC analysis, and decile portfolio evaluation in Python.
+- [Abnormal Turnover Signal Research](https://github.com/Lingjiang-Ji/Cross-Sectional-Alpha-Signal-Research)
+- 
+  Cross-sectional equity signal evaluation using IC analysis, decile portfolios, and empirical asset-pricing workflows.
 
 - [**Financial Sentiment Analysis**](https://github.com/Lingjiang-Ji/financial-sentiment-analysis)
 
