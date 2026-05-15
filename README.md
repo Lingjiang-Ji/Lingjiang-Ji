@@ -40,6 +40,10 @@ Currently working on two company-based analytics projects (medical device & cons
   
   Cross-sectional equity signal evaluation using IC analysis, decile portfolios, and empirical asset-pricing workflows.
 
+- [**Derivatives Pricing with Quasi-Monte Carlo Methods**](https://github.com/Lingjiang-Ji/Derivatives-Pricing-with-Randomized-Quasi-Monte-Carlo-Methods)
+
+  Implemented Monte Carlo and Quasi-Monte Carlo methods for pricing European, digital, and Asian call options, comparing RMSE, bias, variance reduction, and runtime efficiency in Python.
+  
 - [**Financial Sentiment Analysis**](https://github.com/Lingjiang-Ji/financial-sentiment-analysis)
 
    Quantifying corporate tone from SEC 10-K and 10-Q filings using the Loughran–McDonald financial dictionary (2015–2024). Explores how textual sentiment in corporate disclosures correlates with stock performance.
