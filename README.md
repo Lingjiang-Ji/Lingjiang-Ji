@@ -36,9 +36,9 @@ Currently working on two company-based analytics projects (medical device & cons
 
 ### 🧩 Quantitative Research & Finance
 
-- [**Binomial Option Pricing Model**](https://github.com/Lingjiang-Ji/binomial-option-pricing)
+- [**Abnormal Turnover Signal Research**]([https://github.com/Lingjiang-Ji/binomial-option-pricing](https://github.com/Lingjiang-Ji/Cross-Sectional-Alpha-Signal-Research))
 
-   Implementation of the Cox–Ross–Rubinstein Binomial Tree Model for pricing both European and American options (call and put).
+   Investigated the predictive power of abnormal-turnover equity signals using CRSP data through cross-sectional ranking, IC analysis, and decile portfolio evaluation in Python.
 
 - [**Financial Sentiment Analysis**](https://github.com/Lingjiang-Ji/financial-sentiment-analysis)
 
