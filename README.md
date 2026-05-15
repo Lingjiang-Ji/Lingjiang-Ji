@@ -36,7 +36,7 @@ Currently working on two company-based analytics projects (medical device & cons
 
 ### 🧩 Quantitative Research & Finance
 
-- [Abnormal Turnover Signal Research](https://github.com/Lingjiang-Ji/Cross-Sectional-Alpha-Signal-Research)
+- [**Abnormal Turnover Signal Research**](https://github.com/Lingjiang-Ji/Cross-Sectional-Alpha-Signal-Research)
   
   Cross-sectional equity signal evaluation using IC analysis, decile portfolios, and empirical asset-pricing workflows.
 
