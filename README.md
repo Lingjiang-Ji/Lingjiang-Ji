@@ -1,15 +1,14 @@
 # 👋 Hi, I'm Lingjiang Ji
 
 🎓 Master of Quantitative Finance @ UC San Diego 2026  
-📈 MQF 2026 @ UCSD | Finance & Data Enthusiast | Financial Analysis | Python | SQL | Excel | Valuation | Data Analytics
+📈 MQF 2026 @ UCSD | Finance & Data Enthusiast | Risk Analysis | Python | SQL | Excel | Valuation | Financial Analytics
 
 ---
 
 ## 💼 About Me
 
 With a background in economics and finance, I’m passionate about turning raw data into clear, actionable insights.  
-Currently pivoting into the data analytics field, I focus on combining business logic with technical tools to support real-world decisions.
-Currently working on two company-based analytics projects (medical device & construction industries).
+Currently pivoting into the risk analytics field, I focus on combining business logic with technical tools to support real-world decisions.
 
 
 ---
