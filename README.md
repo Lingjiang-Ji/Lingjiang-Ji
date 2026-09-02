@@ -35,13 +35,17 @@ Currently pivoting into the risk analytics field, I focus on combining business 
 
 ### 🧩 Quantitative Research & Finance
 
-- [**Abnormal Turnover Signal Research**](https://github.com/Lingjiang-Ji/Cross-Sectional-Alpha-Signal-Research)
-  
-  Cross-sectional equity signal evaluation using IC analysis, decile portfolios, and empirical asset-pricing workflows.
-
 - [**Derivatives Pricing with Quasi-Monte Carlo Methods**](https://github.com/Lingjiang-Ji/Derivatives-Pricing-with-Randomized-Quasi-Monte-Carlo-Methods)
 
   Implemented Monte Carlo and Quasi-Monte Carlo methods for pricing European, digital, and Asian call options, comparing RMSE, bias, variance reduction, and runtime efficiency in Python.
+  
+- [**Cross Sectional Alpha Signal Research**](https://github.com/Lingjiang-Ji/Cross-Sectional-Alpha-Signal-Research)
+
+  Evaluated abnormal-turnover equity signals using CRSP data, IC and Rank IC, decile portfolios, size neutralization, and robustness testing across 2005–2024.
+
+- [**Abnormal Turnover Signal Research**](https://github.com/Lingjiang-Ji/Cross-Sectional-Alpha-Signal-Research)
+  
+  Cross-sectional equity signal evaluation using IC analysis, decile portfolios, and empirical asset-pricing workflows.
   
 - [**Financial Sentiment Analysis**](https://github.com/Lingjiang-Ji/financial-sentiment-analysis)
 
