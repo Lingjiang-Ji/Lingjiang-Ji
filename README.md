@@ -43,9 +43,6 @@ Currently pivoting into the risk analytics field, I focus on combining business 
 
   Evaluated abnormal-turnover equity signals using CRSP data, IC and Rank IC, decile portfolios, size neutralization, and robustness testing across 2005–2024.
 
-- [**Abnormal Turnover Signal Research**](https://github.com/Lingjiang-Ji/Cross-Sectional-Alpha-Signal-Research)
-  
-  Cross-sectional equity signal evaluation using IC analysis, decile portfolios, and empirical asset-pricing workflows.
   
 - [**Financial Sentiment Analysis**](https://github.com/Lingjiang-Ji/financial-sentiment-analysis)
 
